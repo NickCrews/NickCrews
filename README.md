@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm an engineer (software and beyond!) looking for a role on a smaller, interdisciplinary team.
+
+Currently I provide analysis and tooling so that [Ship Creek Group](https://www.shipcreekgroup.com/) can make data-informed decisions to advance progressive political and advocacy efforts in Alaska. Day to day that means writing flexible, repeatable, explainable software that can clean and interpret messy demographic and donation data. I also contribute to open source projects whenever possible, and do some remote STEM tutoring part-time.
+
+In the past I worked on the ChromeOS team at Google to build new Chromebooks. I mostly worked on low-level C code that I upstreamed into the linux kernel, but also did some C++, Go, and python applications.
+
+Outside of software, I've commercially fished for seven seasons on an Alaskan boat, tutored STEM and rock climbing, built a tiny home, won international physics competitions, and designed and machined precision instruments for physics experiments.
+
+[![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=NickCrews&count_private=True&include_all_commits=True)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **NickCrews/NickCrews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
