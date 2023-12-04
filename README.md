@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-I'm an engineer (software and beyond!) looking for a role on a smaller, interdisciplinary team.
-
 Currently I provide analysis and tooling so that [Ship Creek Group](https://www.shipcreekgroup.com/) can make data-informed decisions to advance progressive political and advocacy efforts in Alaska. Day to day that means writing flexible, repeatable, explainable software that can clean and interpret messy demographic and donation data. I also contribute to open source projects whenever possible, and do some remote STEM tutoring part-time.
 
 In the past I worked on the ChromeOS team at Google to build new Chromebooks. I mostly worked on low-level C code that I upstreamed into the linux kernel, but also did some C++, Go, and python applications.
